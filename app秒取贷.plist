@@ -40,7 +40,7 @@
  <dict>
  <key>bundle-identifier</key>
  <string>com.daianla.recycle.recycleApp</string>
- <key>1</key>
+ <key>bundle-version</key>
  <string>1.0</string>
  <key>kind</key>
  <string>software</string>
